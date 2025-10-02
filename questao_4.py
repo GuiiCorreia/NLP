@@ -1,8 +1,3 @@
-"""
-Questão 4: Implementação de Word Embeddings
-Explicação e implementação de embeddings iniciais para palavras
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
@@ -315,4 +310,5 @@ if __name__ == "__main__":
     """)
     
     print("\n✓ Implementação completa!")
+
     print("✓ Execute este código para ver os resultados e visualizações\n")
