@@ -1,11 +1,3 @@
-"""
-Demonstração: Por que um Perceptron Simples não resolve XOR
-e como uma Rede de Duas Camadas (MLP) consegue resolver
-
-Autor: [Seu Nome]
-Data: Outubro 2025
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -304,4 +296,5 @@ print("\nArquivos gerados:")
 print("  • perceptron_simples.png - Mostra falha do perceptron")
 print("  • mlp_xor.png - Mostra sucesso do MLP")
 print("  • convergencia_arquitetura.png - Convergência e arquitetura")
+
 print("\n" + "="*60)
