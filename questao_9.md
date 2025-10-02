@@ -1,6 +1,6 @@
 # Comparação: Modelo de Bigramas vs Neural Network Language Model (NN-LM)
 
-## 📋 Questão 8
+## 📋 Questão 9
 **Compare um modelo de linguagem baseado em bigramas com um pequeno NN-LM no mesmo corpus. Em quais aspectos o NN-LM supera o modelo de n-gramas?**
 
 ## 🎯 Objetivo
@@ -230,3 +230,4 @@ O NN-LM supera o modelo de bigramas principalmente devido à:
 - **Capacidade não-linear** de capturar padrões complexos
 
 Isso resulta em **perplexidade menor** e **melhor predição** de palavras.
+
